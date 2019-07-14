@@ -1,0 +1,45 @@
+/* Created by Rui-Liang Lyu, July 13, 2019 */
+
+html, body {
+  height: 100%;
+  background-color: #333;  /* Dark background */
+  color: #fff;  /* Light font color */
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.vertical-spacer {
+  height: 30px;
+}
+
+/* Use transparent navbar on cover page */
+.navbar {
+  background-color: transparent;
+}
+
+/* Background image */
+.bg-image {
+  background-image: url("../images/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+/* Links for dark background */
+a {
+  color: rgba(255, 255, 255, .5);
+}
+
+a:focus, a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Custom botton */
+.btn-secondary, .btn-secondary:hover, .btn-secondary:focus {
+  color: #333;
+  background-color: #fff;
+  border: .05rem solid #fff;
+}
