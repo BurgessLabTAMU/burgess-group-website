@@ -20,8 +20,9 @@ h1 {
 }
 
 /* Background image */
+
 .bg-image {
-  background-image: url("../images/banner.jpg");
+  background: linear-gradient(rgba(20, 20, 20, 0), rgba(20, 20, 20, .8)), url("../images/bg-2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
