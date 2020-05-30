@@ -1,0 +1,5 @@
+# masOS system files
+.DS_Store
+
+# Original sized images; too big for Github
+images/*original*
