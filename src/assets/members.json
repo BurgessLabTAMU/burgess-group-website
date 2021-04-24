@@ -1,0 +1,48 @@
+[
+  {
+    "image": "/members/gavin.jpg",
+    "name": "Zhe Gao",
+    "education": [
+      "B.S., Xi’an Jiaotong University, China, 2007",
+      "M.S., Shanghai Jiao Tong University, China, 2010",
+      "Ph.D., University of Kansas, United States, 2019"
+    ],
+    "researchInterest": "Fluorescent probes in cancer detection"
+  },
+  {
+    "image": "/members/larry.jpg",
+    "name": "Rui-Liang Lyu",
+    "education": ["B.S., Peking University, China, 2016"],
+    "researchInterest": "Peptide synthesis; marcrocycles; protein folding; data-driven approaches in drug discovery"
+  },
+  {
+    "image": "/members/tye.jpg",
+    "name": "Tye Thompson",
+    "education": null,
+    "researchInterest": null
+  },
+  {
+    "image": "/members/placeholder-male.jpg",
+    "name": "Jon Whisenant",
+    "education": null,
+    "researchInterest": null
+  },
+  {
+    "image": "/members/tianxiong.jpg",
+    "name": "Tianxiong Mi",
+    "education": ["B.S., Peking University, China"],
+    "researchInterest": null
+  },
+  {
+    "image": "/members/conghe.jpg",
+    "name": "Conghe Tian",
+    "education": null,
+    "researchInterest": null
+  },
+  {
+    "image": "/members/jake.jpg",
+    "name": "Jake Shepherd",
+    "education": null,
+    "researchInterest": null
+  }
+]

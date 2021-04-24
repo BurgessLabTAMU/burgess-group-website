@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://doi.org/10.1002/ange.202002639",
+    "title": "Unconventional Secondary Structure Mimics: Ladder-rungs",
+    "authors": "C. M. Lin, M. Arancillo, J. Whisenant, K. Burgess",
+    "journal": "Angew. Chem. Int. Ed.",
+    "year": 2020,
+    "details": "accepted",
+    "graphical": "papers/Lin-2020.png"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.ijpharm.2020.119189",
+    "title": "Active Targeted Ligand-AzaBODIPY Conjugate for Near-Infrared Photodynamic Therapy in Melanoma",
+    "authors": "S. Y. Ng, A. Kamkaew, N. Fu, C. S. Kue, L. Y. Chung, L. V. Kiew, J. Wittayakun, K. Burgess, H. B. Lee",
+    "journal": "Int. J. Pharm.",
+    "year": 2020,
+    "details": "579, 119189",
+    "graphical": "papers/Ng-2020.png"
+  },
+  {
+    "url": "https://doi.org/10.1021/acs.bioconjchem.9b00771",
+    "title": "Role Of Albumin Binding In Accumulation And Persistence Of Tumor-seeking Cyanine Dyes",
+    "authors": "S. M. Usama, G. K. Park, S. Nomura; Y. Baek, H. S. Choi, K. Burgess",
+    "journal": "Mol. Pharm.",
+    "year": 2020,
+    "details": "21, 248-259",
+    "graphical": "papers/Usama-2020.png"
+  }
+]

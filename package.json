@@ -1,0 +1,31 @@
+{
+  "name": "burgess-group-website",
+  "author": "Rui-Liang Lyu <lyu.chemistry@tamu.edu>",
+  "version": "2.0.0",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "vue-cli-service build",
+    "serve": "vue-cli-service serve"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.0-beta3",
+    "vue": "^3.0.11",
+    "vue-router": "^4.0.6",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli": "^4.5.12",
+    "@vue/cli-plugin-router": "^4.5.12",
+    "@vue/cli-plugin-typescript": "^4.5.12",
+    "@vue/cli-plugin-vuex": "^4.5.12",
+    "@vue/cli-service": "^4.5.12",
+    "@vue/compiler-sfc": "^3.0.11",
+    "typescript": "^4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurgessLabTAMU/burgess-group-website.git"
+  },
+  "homepage": "https://www.chem.tamu.edu/rgroup/burgess/"
+}

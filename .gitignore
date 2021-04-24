@@ -1,5 +1,2 @@
-# masOS system files
+node_modules
 .DS_Store
-
-# Original sized images; too big for Github
-images/*original*
