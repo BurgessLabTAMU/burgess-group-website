@@ -3,10 +3,11 @@
     <PageTitle title="Research" />
     <h3>Why do people join The Burgess Group?</h3>
     <p>
-      The Burgess Group is for PhD students who are interested in applying organic
-      techniques to problems in biomedicinal chemistry involving small molecules that
-      interact with cell surface receptors to impact disease states. We are particularly
-      interested in new methods and approaches that could be used for drug design.
+      The Burgess Group is for PhD students and postdocs who are interested in applying
+      organic techniques to problems in biomedicinal chemistry involving small molecules
+      that interact with cell surface receptors to impact disease states. We are
+      particularly interested in new methods and approaches that could be used for drug
+      design.
     </p>
     <h3>What we do.</h3>
     <p>
@@ -23,11 +24,11 @@
       amount of synthesis can vary from peptides and peptidomimetics only, to more
       sophisticated molecules. Group members then accumulate combinations of specialist
       skills that include: biophysical assays (<i>eg</i> fluorescence polarization and
-      ELISA), tissue culture and cellular assays (eg FACS and Western blotting,
+      ELISA), tissue culture and cellular assays (<i>eg</i> FACS and Western blotting,
       intracellular imaging), or bioinformatics including data mining and perhaps some
       machine learning. Many students take courses outside the department of chemistry.
       Interested students can learn many of these techniques. Prior experience is not
-      required: we can teach you. WE collaborate with other research groups for
+      required: we can teach you. We collaborate with other research groups for
       <i>in vivo</i> work.
     </p>
     <hr />
@@ -35,11 +36,13 @@
       Illustrative Current Projects
     </h3>
     <p>
-      Design of small molecules that interact with Trk receptors to impact dry-eye disease
-      and neurotrophic keratitis.
+      Design of <i>cyclo</i>-organopeptides that interact with Trk receptors to impact
+      dry-eye disease and neurotrophic keratitis.
     </p>
     <p>
-      PROTACs to simultaneously degrade CDKs6,4 and 2 to induce apoptosis in cancer cells.
+      PROTACs to simultaneously degrade CDKs 2, 4, 6, and indirectly cyclins A, D, and E,
+      to induce apoptosis in cancer cells by suppressing phosphoralation of retinoblastoma
+      protein (Rb).
     </p>
     <p>
       Design of water-soluble near IR2 dyes for relatively deep tissue imaging of cancer
@@ -47,7 +50,7 @@
     </p>
     <p>
       Massively parallel molecular dynamics to match preferred conformations of
-      cyclo-organopeptides with hot spots in protein ligands that are involved in
+      <i>cyclo</i>-organopeptides with hot spots in protein ligands that are involved in
       protein-protein interactions.
     </p>
     <p>

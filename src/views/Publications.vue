@@ -3,45 +3,84 @@
     <PageTitle title="Publications" />
 
     <div class="text-center">
-      <p>
-        Dr Burgess is the co-author of the monthly Highlights in
-        <a href="https://onlinelibrary.wiley.com/journal/20476329"
-          >Chemistry and Industry</a
-        >
-        since 1986; now contributing the Biomedical section.
+      <p class="fs-3 mb-3"><strong>H-index 81 as of May 2021</strong></p>
+      <p class="fs-5 mb-3">
+        <strong>complete, and most updated, list of published works available at:</strong>
       </p>
-      <p><strong>H index 78 as of April 2020</strong></p>
-      <p><strong>Complete List of Published Works available at:</strong></p>
-      <div class="container" style="max-width: 500px;">
-        <div class="row">
-          <div class="col-4 text-center">
-            <a href="https://orcid.org/0000-0001-6597-1842">
-              <img class="logo" src="/orcid.jpeg" alt="orcid" /><br />
-              ORCID
-            </a>
-          </div>
-          <div class="col-4 text-center">
-            <a
-              href="https://www.ncbi.nlm.nih.gov/myncbi/1tINkobI4_pIps/bibliography/public/"
-            >
-              <img
-                class="logo"
-                src="/nih.png"
-                alt="nih"
-                style="margin-top: 14px; margin-bottom: 13px;"
-              /><br />
-              MyBibliography
-            </a>
-          </div>
-          <div class="col-4 text-center">
-            <a href="https://scholar.google.com/citations?user=0xlRve0AAAAJ">
-              <img class="logo" src="/google.png" alt="google-scholar" /><br />
-              Google Scholar
-            </a>
-          </div>
+      <div class="row mx-auto" style="max-width: 500px;">
+        <div class="col-4 text-center">
+          <a
+            href="https://orcid.org/0000-0001-6597-1842"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img class="logo" src="/orcid.jpeg" alt="orcid" /><br />
+            ORCID
+          </a>
+        </div>
+        <div class="col-4 text-center">
+          <a
+            href="https://www.ncbi.nlm.nih.gov/myncbi/1tINkobI4_pIps/bibliography/public/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              class="logo"
+              src="/nih.png"
+              alt="nih"
+              style="margin-top: 14px; margin-bottom: 13px;"
+            /><br />
+            MyBibliography
+          </a>
+        </div>
+        <div class="col-4 text-center">
+          <a
+            href="https://scholar.google.com/citations?user=0xlRve0AAAAJ"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img class="logo" src="/google.png" alt="google-scholar" /><br />
+            Google Scholar
+          </a>
         </div>
       </div>
+      <p class="fs-5 mt-4 pt-3">
+        Dr Burgess is the co-author of the monthly Highlights in
+        <a
+          href="https://onlinelibrary.wiley.com/journal/20476329"
+          target="_blank"
+          rel="noopener noreferrer"
+          >Chemistry and Industry</a
+        >
+        since 1986;<br />
+        see the Biomedical section of that column.
+      </p>
+      <p class="fs-5 mt-4 pt-2">
+        He is author of three workbooks for teaching:<br />
+        <a
+          href="http://www.byinquisition.org/adv.php"
+          target="_blank"
+          rel="noopener noreferrer"
+          >Organic Chemistry By Inquisition (for graduate students)</a
+        ><br />
+
+        <a
+          href="http://www.byinquisition.org/index.php"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Sophomore Organic Chemistry By Inquisition 1</a
+        >
+        and
+        <a
+          href="http://www.byinquisition.org/sophomore2.php"
+          target="_blank"
+          rel="noopener noreferrer"
+          >2</a
+        >
+      </p>
     </div>
+
     <hr />
 
     <h3>2021</h3>

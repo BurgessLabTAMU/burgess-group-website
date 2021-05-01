@@ -6,11 +6,9 @@
       <div class="col-lg-6">
         <h3>PI</h3>
         <p>
-          <strong> Kevin Burgess</strong> <br />
-          <em
-            >Texas A &amp; M University <br />
-            Rachal Professor of Chemistry</em
-          >
+          <strong class="fs-4"> Kevin Burgess</strong> <br />
+          Texas A &amp; M University <br />
+          Rachal Professor of Chemistry
           <br />
           ILSB Building, Room 2161 <br />
           301 Old Main Drive <br />
@@ -21,10 +19,10 @@
         </p>
         <h3>Assistant</h3>
         <p>
-          <strong>Andrea Scott</strong> <br />
-          <em>Administrative Assistant to Dr. Kevin Burgess</em> <br />
+          <strong class="fs-4">Andrea Scott</strong> <br />
+          Administrative Assistant to Dr. Kevin Burgess <br />
           Phone: 979-845-1847 <br />
-          Email: <a href="mailto:ascott@mail.chem.tamu.edu">ascott@mail.chem.tamu.edu</a>
+          Email: <a href="mailto:ascott@mail.chem.tamu.edu">ascott@chem.tamu.edu</a>
           <br />
           Hours: 1:00 pm to 5:00 pm Monday through Friday
         </p>
