@@ -11,37 +11,37 @@ export default createRouter({
   history: createWebHistory(),
   routes: [
     {
-      path: "/",
+      path: "/rgroup/burgess/",
       name: "Home",
       component: Home
     },
     {
-      path: "/contact",
+      path: "/rgroup/burgess/contact",
       name: "Contact",
       component: Contact
     },
     {
-      path: "/members",
+      path: "/rgroup/burgess/members",
       name: "Members",
       component: Members
     },
     {
-      path: "/openings",
+      path: "/rgroup/burgess/openings",
       name: "Openings",
       component: Openings
     },
     {
-      path: "/publications",
+      path: "/rgroup/burgess/publications",
       name: "Publicationspublications",
       component: Publications
     },
     {
-      path: "/research",
+      path: "/rgroup/burgess/research",
       name: "Research",
       component: Research
     },
     {
-      path: "/software",
+      path: "/rgroup/burgess/software",
       name: "Software",
       component: Software
     }

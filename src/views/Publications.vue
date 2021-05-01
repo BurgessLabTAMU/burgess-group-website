@@ -14,7 +14,7 @@
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img class="logo" src="/orcid.jpeg" alt="orcid" /><br />
+            <img class="logo" src="orcid.jpeg" alt="orcid" /><br />
             ORCID
           </a>
         </div>
@@ -26,7 +26,7 @@
           >
             <img
               class="logo"
-              src="/nih.png"
+              src="nih.png"
               alt="nih"
               style="margin-top: 14px; margin-bottom: 13px;"
             /><br />
@@ -39,7 +39,7 @@
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img class="logo" src="/google.png" alt="google-scholar" /><br />
+            <img class="logo" src="google.png" alt="google-scholar" /><br />
             Google Scholar
           </a>
         </div>

@@ -1,6 +1,7 @@
 <template>
   <div id="software" class="container">
     <PageTitle title="Software" />
+    <h1 class="mx-auto">This page is under construction!</h1>
   </div>
 </template>
 

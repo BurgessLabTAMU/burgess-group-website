@@ -15,18 +15,22 @@
     <div class="collapse navbar-collapse" id="navbar-toggler">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <router-link to="/research" class="nav-link">Research</router-link>
+          <router-link to="/rgroup/burgess/research" class="nav-link"
+            >Research</router-link
+          >
         </li>
         <li class="nav-item">
-          <router-link to="/members" class="nav-link">Members</router-link>
+          <router-link to="/rgroup/burgess/members" class="nav-link">Members</router-link>
         </li>
         <li class="nav-item">
-          <router-link to="/publications" class="nav-link">
+          <router-link to="/rgroup/burgess/publications" class="nav-link">
             Publications
           </router-link>
         </li>
         <li class="nav-item">
-          <router-link to="/software" class="nav-link">Software</router-link>
+          <router-link to="/rgroup/burgess/software" class="nav-link"
+            >Software</router-link
+          >
         </li>
         <li class="nav-item">
           <a
@@ -39,10 +43,12 @@
           </a>
         </li>
         <li class="nav-item">
-          <router-link to="/contact" class="nav-link">Contact</router-link>
+          <router-link to="/rgroup/burgess/contact" class="nav-link">Contact</router-link>
         </li>
         <li class="nav-item">
-          <router-link to="/openings" class="nav-link">Openings</router-link>
+          <router-link to="/rgroup/burgess/openings" class="nav-link"
+            >Openings</router-link
+          >
         </li>
       </ul>
     </div>
