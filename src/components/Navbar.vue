@@ -1,7 +1,9 @@
 <template>
   <nav id="navbar" class="navbar navbar-expand-lg navbar-dark mb-auto ps-3 pe-3">
     <!-- Navbar title -->
-    <router-link to="/" class="navbar-brand me-auto">The Burgess Lab</router-link>
+    <router-link to="/rgroup/burgess/" class="navbar-brand me-auto">
+      The Burgess Lab
+    </router-link>
     <!-- Toggler botton-->
     <button
       class="navbar-toggler"
