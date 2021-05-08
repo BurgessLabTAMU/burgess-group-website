@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: ".",
+  publicPath: "/rgroup/burgess",
   outputDir: "dist"
 };

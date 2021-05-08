@@ -2,7 +2,7 @@
   <div id="openings" class="container">
     <PageTitle title="Openings" />
     <embed
-      src="job-description-tissue-culture.pdf"
+      src="/rgroup/burgess/job-description-tissue-culture.pdf"
       width="100%"
       height="1000px"
       type="application/pdf"

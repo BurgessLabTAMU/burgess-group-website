@@ -6,7 +6,7 @@
     "journal": "Mol. Pharm.",
     "year": 2019,
     "details": "16, 4313-4318",
-    "graphical": "papers/Zhao-2019-1.png"
+    "graphical": "/rgroup/burgess/papers/Zhao-2019-1.png"
   },
   {
     "url": "https://doi.org/10.1021/acs.jmedchem.9b01147",
@@ -15,7 +15,7 @@
     "journal": "J. Med. Chem.",
     "year": 2019,
     "details": "62, 9236-9245",
-    "graphical": "papers/Jiang-2019.png"
+    "graphical": "/rgroup/burgess/papers/Jiang-2019.png"
   },
   {
     "url": "https://doi.org/10.1002/cmdc.201900356",
@@ -24,7 +24,7 @@
     "journal": "ChemMedChem",
     "year": 2019,
     "details": "14, 1575-1579",
-    "graphical": "papers/Usama-2019-1.png"
+    "graphical": "/rgroup/burgess/papers/Usama-2019-1.png"
   },
   {
     "url": "https://doi.org/10.1039/C9OB01184F",
@@ -33,7 +33,7 @@
     "journal": "Org. Biomol. Chem.",
     "year": 2019,
     "details": "17, 7150-7154",
-    "graphical": "papers/Thavornpradit-2019-1.png"
+    "graphical": "/rgroup/burgess/papers/Thavornpradit-2019-1.png"
   },
   {
     "url": "https://doi.org/10.1002/anie.201902956",
@@ -42,7 +42,7 @@
     "journal": "Angew. Chem. Int. Ed.",
     "year": 2019,
     "details": "28, 2-5",
-    "graphical": "papers/Usama-2019-2.png"
+    "graphical": "/rgroup/burgess/papers/Usama-2019-2.png"
   },
   {
     "url": "https://doi.org/10.1039/c9ob00204a",
@@ -51,7 +51,7 @@
     "journal": "Org. Biomol. Chem.",
     "year": 2019,
     "details": "17, 3267-3274",
-    "graphical": "papers/Taechalertpaisarn-2019-1.png"
+    "graphical": "/rgroup/burgess/papers/Taechalertpaisarn-2019-1.png"
   },
   {
     "url": "https://doi.org/10.1002/cplu.201800574",
@@ -60,7 +60,7 @@
     "journal": "ChemPlusChem",
     "year": 2019,
     "details": "84, 252-259",
-    "graphical": "papers/Piyanuch-2019.png"
+    "graphical": "/rgroup/burgess/papers/Piyanuch-2019.png"
   },
   {
     "url": "https://doi.org/10.1039/C8OB02901F",
@@ -69,7 +69,7 @@
     "journal": "Org. Biomol. Chem.",
     "year": 2019,
     "details": "17, 908-915",
-    "graphical": "papers/Taechalertpaisarn-2019-2.png"
+    "graphical": "/rgroup/burgess/papers/Taechalertpaisarn-2019-2.png"
   },
   {
     "url": "https://doi.org/10.1039/c9cc00163h",
@@ -78,7 +78,7 @@
     "journal": "Chem. Commun.",
     "year": 2019,
     "details": "55, 2704-2707",
-    "graphical": "papers/Zhao-2019-2.png"
+    "graphical": "/rgroup/burgess/papers/Zhao-2019-2.png"
   },
   {
     "url": "https://doi.org/10.71501/thno.33595",
@@ -87,7 +87,7 @@
     "journal": "Theranostics",
     "year": 2019,
     "details": "9, 2856-2867",
-    "graphical": "papers/Thavornpradit-2019-2.png"
+    "graphical": "/rgroup/burgess/papers/Thavornpradit-2019-2.png"
   },
   {
     "url": "https://doi.org/10.1021/acs.bioconjchem.9b00118",
@@ -96,6 +96,6 @@
     "journal": "Bioconjugate Chem",
     "year": 2019,
     "details": "30, 1175-1181",
-    "graphical": "papers/Usama-2019-3.png"
+    "graphical": "/rgroup/burgess/papers/Usama-2019-3.png"
   }
 ]

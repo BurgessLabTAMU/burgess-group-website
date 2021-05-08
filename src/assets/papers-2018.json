@@ -6,7 +6,7 @@
     "journal": "Molecules",
     "year": 2018,
     "details": "23, 2900",
-    "graphical": "papers/Lin-2018.png"
+    "graphical": "/rgroup/burgess/papers/Lin-2018.png"
   },
   {
     "url": "https://doi.org/10.1021/acs.bioconjchem.8b00708",
@@ -15,7 +15,7 @@
     "journal": "Bioconjugate Chem.",
     "year": 2018,
     "details": "29, 3886-2895",
-    "graphical": "papers/Usama-2018-1.png"
+    "graphical": "/rgroup/burgess/papers/Usama-2018-1.png"
   },
   {
     "url": "https://doi.org/10.1039/C8MD00190A",
@@ -24,7 +24,7 @@
     "journal": "Med. Chem. Comm.",
     "year": 2018,
     "details": "9, 1754-1760",
-    "graphical": "papers/Yang-2018.png"
+    "graphical": "/rgroup/burgess/papers/Yang-2018.png"
   },
   {
     "url": "https://doi.org/10.1021/acs.bioconjchem.8b00340",
@@ -33,7 +33,7 @@
     "journal": "Bioconjugate Chem.",
     "year": 2018,
     "details": "29, 2920-2926",
-    "graphical": "papers/Jiang-2018.png"
+    "graphical": "/rgroup/burgess/papers/Jiang-2018.png"
   },
   {
     "url": "https://doi.org/10.1021/acsabm.8b00414",
@@ -42,7 +42,7 @@
     "journal": "ACS Appl. Bio Mater.",
     "year": 2018,
     "details": "1, 1195-1205",
-    "graphical": "papers/Usama-2018-2.png"
+    "graphical": "/rgroup/burgess/papers/Usama-2018-2.png"
   },
   {
     "url": "https://doi.org/10.1021/acsmedchemlett.7b00516",
@@ -51,7 +51,7 @@
     "journal": "ACS Med. Chem. Lett.",
     "year": 2018,
     "details": "9, 155-158",
-    "graphical": "papers/Zhao-2018.png"
+    "graphical": "/rgroup/burgess/papers/Zhao-2018.png"
   },
   {
     "url": "https://doi.org/10.1021/jacs.7b09360",
@@ -60,6 +60,6 @@
     "journal": "J. Am. Chem. Soc.",
     "year": 2018,
     "details": "140, 3242-3248",
-    "graphical": "papers/Taechalertpaisarn-2018.png"
+    "graphical": "/rgroup/burgess/papers/Taechalertpaisarn-2018.png"
   }
 ]

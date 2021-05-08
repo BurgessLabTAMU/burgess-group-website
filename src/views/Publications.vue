@@ -14,7 +14,7 @@
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img class="logo" src="icons/orcid.jpeg" alt="orcid" /><br />
+            <img class="logo" src="/rgroup/burgess/icons/orcid.jpeg" alt="orcid" /><br />
             ORCID
           </a>
         </div>
@@ -26,7 +26,7 @@
           >
             <img
               class="logo"
-              src="icons/nih.png"
+              src="/rgroup/burgess/icons/nih.png"
               alt="nih"
               style="margin-top: 14px; margin-bottom: 13px;"
             /><br />
@@ -39,7 +39,11 @@
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img class="logo" src="icons/google.png" alt="google-scholar" /><br />
+            <img
+              class="logo"
+              src="/rgroup/burgess/icons/google.png"
+              alt="google-scholar"
+            /><br />
             Google Scholar
           </a>
         </div>

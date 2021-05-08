@@ -6,7 +6,7 @@
     "journal": "J. Hazard. Mater.",
     "year": 2020,
     "details": "accepted",
-    "graphical": "papers/Piyanuch-2020.png"
+    "graphical": "/rgroup/burgess/papers/Piyanuch-2020.png"
   },
   {
     "url": "https://doi.org/10.1002/cmdc.202000683",
@@ -15,7 +15,7 @@
     "journal": "ChemMedChem",
     "year": 2020,
     "details": "accepted",
-    "graphical": "papers/Tian-2020.png"
+    "graphical": "/rgroup/burgess/papers/Tian-2020.png"
   },
   {
     "url": "https://doi.org/10.1021/acsmedchemlett.0c00409",
@@ -24,7 +24,7 @@
     "journal": "ACS Med. Chem. Lett.",
     "year": 2020,
     "details": "11, 1663-1666",
-    "graphical": "papers/Mi-2020.png"
+    "graphical": "/rgroup/burgess/papers/Mi-2020.png"
   },
   {
     "url": "https://doi.org/10.1021/acsmedchemlett.0c00233",
@@ -33,7 +33,7 @@
     "journal": "ACS Med. Chem. Lett.",
     "year": 2020,
     "details": "11, 1076-1078",
-    "graphical": "papers/Whisenant-2020.png"
+    "graphical": "/rgroup/burgess/papers/Whisenant-2020.png"
   },
   {
     "url": "https://doi.org/10.1039/D0SC00958J",
@@ -42,7 +42,7 @@
     "journal": "Chem. Sci.",
     "year": 2020,
     "details": "accepted",
-    "graphical": "papers/Lin-2020-2.png"
+    "graphical": "/rgroup/burgess/papers/Lin-2020-2.png"
   },
   {
     "url": "https://doi.org/10.1002/ange.202002639",
@@ -51,7 +51,7 @@
     "journal": "Angew. Chem. Int. Ed.",
     "year": 2020,
     "details": "accepted",
-    "graphical": "papers/Lin-2020-1.png"
+    "graphical": "/rgroup/burgess/papers/Lin-2020-1.png"
   },
   {
     "url": "https://doi.org/10.1016/j.ijpharm.2020.119189",
@@ -60,7 +60,7 @@
     "journal": "Int. J. Pharm.",
     "year": 2020,
     "details": "579, 119189",
-    "graphical": "papers/Ng-2020.png"
+    "graphical": "/rgroup/burgess/papers/Ng-2020.png"
   },
   {
     "url": "https://doi.org/10.1021/acs.bioconjchem.9b00771",
@@ -69,6 +69,6 @@
     "journal": "Mol. Pharm.",
     "year": 2020,
     "details": "21, 248-259",
-    "graphical": "papers/Usama-2020.png"
+    "graphical": "/rgroup/burgess/papers/Usama-2020.png"
   }
 ]
