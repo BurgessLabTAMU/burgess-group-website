@@ -1,7 +1,7 @@
 <template>
   <div>
     <Navbar />
-    <router-view class="pb-5" />
+    <router-view class="pb-6" />
   </div>
 </template>
 
@@ -17,7 +17,6 @@ export default defineComponent({
 
 <style>
 body {
-  /* font-family: "Montserrat", sans-serif !important; */
   font-family: "Roboto", sans-serif !important;
   font-size: 1.1rem !important;
   font-weight: 500 !important;
@@ -43,5 +42,9 @@ a {
 
 .container {
   max-width: 1140px !important;
+}
+
+.pb-6 {
+  padding-bottom: 6rem;
 }
 </style>

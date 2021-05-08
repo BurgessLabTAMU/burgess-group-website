@@ -1,12 +1,57 @@
 [
   {
+    "url": "https://doi.org/10.1016/j.jhazmat.2020.124487",
+    "title": "Rapid and Visual Detection of Cd2t Based on aza-BODIPY Near Infrared Dye and Its Appli-cation in Real and Biological Samples for Environmental Contamination Screening",
+    "authors": "P. Piyanuch, P. Patawanich, J. Sirirak, K. Suwatpipat, A. Kamkaew, K. Burgess, N. Wanichacheva",
+    "journal": "J. Hazard. Mater.",
+    "year": 2020,
+    "details": "accepted",
+    "graphical": "papers/Piyanuch-2020.png"
+  },
+  {
+    "url": "https://doi.org/10.1002/cmdc.202000683",
+    "title": "PROTAC Compatibilities, Degrading Cell Surface Receptors, and the Sticky Problem of Find-ing a Molecular Glue",
+    "authors": "C. Tian, K. Burgess",
+    "journal": "ChemMedChem",
+    "year": 2020,
+    "details": "accepted",
+    "graphical": "papers/Tian-2020.png"
+  },
+  {
+    "url": "https://doi.org/10.1021/acsmedchemlett.0c00409",
+    "title": "Striking Similarities Between CDRs in Some mAbs That Neutralized COVID-19",
+    "authors": "T. Mi, K. Burgess",
+    "journal": "ACS Med. Chem. Lett.",
+    "year": 2020,
+    "details": "11, 1663-1666",
+    "graphical": "papers/Mi-2020.png"
+  },
+  {
+    "url": "https://doi.org/10.1021/acsmedchemlett.0c00233",
+    "title": "Blocking Coronavirus 19 Infection Via the SARS-COV-2 Spike Protein: Initial Steps",
+    "authors": "J. Whisenant, K. Burgess",
+    "journal": "ACS Med. Chem. Lett.",
+    "year": 2020,
+    "details": "11, 1076-1078",
+    "graphical": "papers/Whisenant-2020.png"
+  },
+  {
+    "url": "https://doi.org/10.1039/D0SC00958J",
+    "title": "Small Molecules Targeting The NEDD8•NAE Protein-Protein Interaction",
+    "authors": "C.-M. Lin, X. Jiang, K. Burgess",
+    "journal": "Chem. Sci.",
+    "year": 2020,
+    "details": "accepted",
+    "graphical": "papers/Lin-2020-2.png"
+  },
+  {
     "url": "https://doi.org/10.1002/ange.202002639",
     "title": "Unconventional Secondary Structure Mimics: Ladder-rungs",
     "authors": "C. M. Lin, M. Arancillo, J. Whisenant, K. Burgess",
     "journal": "Angew. Chem. Int. Ed.",
     "year": 2020,
     "details": "accepted",
-    "graphical": "papers/Lin-2020.png"
+    "graphical": "papers/Lin-2020-1.png"
   },
   {
     "url": "https://doi.org/10.1016/j.ijpharm.2020.119189",

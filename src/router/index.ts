@@ -12,6 +12,7 @@ export default createRouter({
   routes: [
     {
       path: "/rgroup/burgess/",
+      alias: "/",
       name: "Home",
       component: Home
     },

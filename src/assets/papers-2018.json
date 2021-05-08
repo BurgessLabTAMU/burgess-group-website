@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "url": "https://doi.org/10.3390/molecules23112900",
+    "title": "Site-Specific Labeling of Proteins with Near-IR Heptamethine Cyanine Dyes",
+    "authors": "C.-M. Lin, S. M. Usama, K. Burgess",
+    "journal": "Molecules",
+    "year": 2018,
+    "details": "23, 2900",
+    "graphical": "papers/Lin-2018.png"
+  },
+  {
+    "url": "https://doi.org/10.1021/acs.bioconjchem.8b00708",
+    "title": "On the Mechanisms of Uptake of Tumor-seeking Cyanine Dyes",
+    "authors": "S. M. Usama, C.-M. Lin, K. Burgess",
+    "journal": "Bioconjugate Chem.",
+    "year": 2018,
+    "details": "29, 3886-2895",
+    "graphical": "papers/Usama-2018-1.png"
+  },
+  {
+    "url": "https://doi.org/10.1039/C8MD00190A",
+    "title": "A Zwitterionic Near-infrared Dye Linked TrkC Targeting Agent for Imaging Metastatic Breast Cancer",
+    "authors": "Z. Yang, S. M. Usama, F. Li, K. Burgess, Z. Li",
+    "journal": "Med. Chem. Comm.",
+    "year": 2018,
+    "details": "9, 1754-1760",
+    "graphical": "papers/Yang-2018.png"
+  },
+  {
+    "url": "https://doi.org/10.1021/acs.bioconjchem.8b00340",
+    "title": "Targeted Maytansinoid Conjugate Improves Therapeutic Index for Metastatic Breast Cacer Cells",
+    "authors": "Z. Jiang, Z. Yang, F. Li, Z. Li, N. Fishkin, K. Burgess",
+    "journal": "Bioconjugate Chem.",
+    "year": 2018,
+    "details": "29, 2920-2926",
+    "graphical": "papers/Jiang-2018.png"
+  },
+  {
+    "url": "https://doi.org/10.1021/acsabm.8b00414",
+    "title": "Optimized Heptamethine Cyanines for Photodynamic Therapy",
+    "authors": "S. Usama, S. Thavornpradit, K. Burgess",
+    "journal": "ACS Appl. Bio Mater.",
+    "year": 2018,
+    "details": "1, 1195-1205",
+    "graphical": "papers/Usama-2018-2.png"
+  },
+  {
+    "url": "https://doi.org/10.1021/acsmedchemlett.7b00516",
+    "title": "A Click-addressable Cassette for Photoaffinity Labeling",
+    "authors": "B. Zhao, K. Burgess",
+    "journal": "ACS Med. Chem. Lett.",
+    "year": 2018,
+    "details": "9, 155-158",
+    "graphical": "papers/Zhao-2018.png"
+  },
+  {
+    "url": "https://doi.org/10.1021/jacs.7b09360",
+    "title": "Small Molecule Inhibitors of the PCSK9&middot;LDLR Interaction",
+    "authors": "J. Taechalertpaisarn, B. Zhao, X. Liang, K. Burgesss",
+    "journal": "J. Am. Chem. Soc.",
+    "year": 2018,
+    "details": "140, 3242-3248",
+    "graphical": "papers/Taechalertpaisarn-2018.png"
+  }
+]

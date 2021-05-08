@@ -2,15 +2,17 @@
   <div id="members" class="container">
     <PageTitle title="Members" />
     <h3>Current members</h3>
-    <div v-for="(member, index) in $store.state.members" :key="index">
-      <MemberInfo :member="member" />
+    <div class="row">
+      <div v-for="(member, index) in $store.state.members" :key="index" class="col-md-6">
+        <MemberInfo :member="member" />
+      </div>
     </div>
     <hr />
     <h3>Former members (since 2017)</h3>
     <ul>
       <li v-for="(member, index) in $store.state.formerMembers" :key="index">
         <strong>{{ member.name }}</strong>
-        <span v-if="member.currentPosition">&nbsp;({{ member.currentPosition }})</span>
+        <span v-if="member.currentPosition"> – {{ member.currentPosition }} </span>
       </li>
     </ul>
   </div>

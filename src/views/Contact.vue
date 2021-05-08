@@ -4,9 +4,10 @@
 
     <div class="row">
       <div class="col-lg-6">
-        <h3>PI</h3>
+        <div class="fs-3">
+          <b>Kevin Burgess</b>
+        </div>
         <p>
-          <strong class="fs-4"> Kevin Burgess</strong> <br />
           Texas A &amp; M University <br />
           Rachal Professor of Chemistry
           <br />
@@ -17,9 +18,10 @@
           Fax: 979-845-8839 <br />
           Email: <a href="mailto:burgess@tamu.edu">burgess@tamu.edu</a>
         </p>
-        <h3>Assistant</h3>
+        <div class="fs-3">
+          <b>Andrea Scott</b>
+        </div>
         <p>
-          <strong class="fs-4">Andrea Scott</strong> <br />
           Administrative Assistant to Dr. Kevin Burgess <br />
           Phone: 979-845-1847 <br />
           Email: <a href="mailto:ascott@mail.chem.tamu.edu">ascott@chem.tamu.edu</a>

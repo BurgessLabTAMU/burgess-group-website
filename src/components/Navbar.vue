@@ -30,9 +30,9 @@
           </router-link>
         </li>
         <li class="nav-item">
-          <router-link to="/rgroup/burgess/software" class="nav-link"
-            >Software</router-link
-          >
+          <router-link to="/rgroup/burgess/software" class="nav-link">
+            Software
+          </router-link>
         </li>
         <li class="nav-item">
           <a
@@ -48,9 +48,9 @@
           <router-link to="/rgroup/burgess/contact" class="nav-link">Contact</router-link>
         </li>
         <li class="nav-item">
-          <router-link to="/rgroup/burgess/openings" class="nav-link"
-            >Openings</router-link
-          >
+          <router-link to="/rgroup/burgess/openings" class="nav-link">
+            Openings
+          </router-link>
         </li>
       </ul>
     </div>

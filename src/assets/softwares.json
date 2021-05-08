@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Schellman Database",
+    "description": "Descriptive text",
+    "github": "",
+    "webapp": "",
+    "graphical": "https://via.placeholder.com/500x300.png?text=I+am+a+placeholder"
+  },
+  {
+    "title": "Solvent Occlusion",
+    "description": "Detection of hot spot residues on protein-protein interfaces",
+    "github": "https://github.com/burgess-lab-tamu/solvent-occlusion",
+    "webapp": "",
+    "graphical": "https://via.placeholder.com/500x300.png?text=I+am+a+placeholder"
+  },
+  {
+    "title": "Exploring Key Orientations for Secondary Structures (EKOS)",
+    "description": "Descriptive text",
+    "github": "",
+    "webapp": "",
+    "graphical": "https://via.placeholder.com/500x300.png?text=I+am+a+placeholder"
+  },
+  {
+    "title": "Exploring Key Orientations (EKO)",
+    "description": "Descriptive text",
+    "github": "",
+    "webapp": "",
+    "graphical": "https://via.placeholder.com/500x300.png?text=I+am+a+placeholder"
+  }
+]

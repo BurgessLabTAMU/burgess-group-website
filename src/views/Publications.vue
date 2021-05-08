@@ -14,7 +14,7 @@
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img class="logo" src="orcid.jpeg" alt="orcid" /><br />
+            <img class="logo" src="icons/orcid.jpeg" alt="orcid" /><br />
             ORCID
           </a>
         </div>
@@ -26,7 +26,7 @@
           >
             <img
               class="logo"
-              src="nih.png"
+              src="icons/nih.png"
               alt="nih"
               style="margin-top: 14px; margin-bottom: 13px;"
             /><br />
@@ -39,7 +39,7 @@
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img class="logo" src="google.png" alt="google-scholar" /><br />
+            <img class="logo" src="icons/google.png" alt="google-scholar" /><br />
             Google Scholar
           </a>
         </div>
@@ -50,8 +50,9 @@
           href="https://onlinelibrary.wiley.com/journal/20476329"
           target="_blank"
           rel="noopener noreferrer"
-          >Chemistry and Industry</a
         >
+          Chemistry and Industry
+        </a>
         since 1986;<br />
         see the Biomedical section of that column.
       </p>
@@ -102,6 +103,21 @@
     <h3>2017</h3>
     <div v-for="(paper, index) in $store.state.papers[2017]" :key="index">
       <PaperBox :paper="paper" />
+    </div>
+    <h3>2016</h3>
+    <div v-for="(paper, index) in $store.state.papers[2016]" :key="index">
+      <PaperBox :paper="paper" />
+    </div>
+    <div class="text-center fs-4 mt-5 mb-5">
+      For earlier publications, please check Dr Burgess'
+      <a
+        href="https://scholar.google.com/citations?user=0xlRve0AAAAJ"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Google Scholar
+      </a>
+      Page.
     </div>
     <hr />
 

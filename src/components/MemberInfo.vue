@@ -1,25 +1,14 @@
 <template>
-  <div class="row">
-    <div class="col col-md-3">
+  <div class="row mb-0">
+    <div class="col col-md-6">
       <img :src="member.image" />
     </div>
-    <div class="col col-md-9">
-      <p class="fs-4">
+    <div class="col col-md-6">
+      <p class="fs-3">
         <strong>{{ member.name }}</strong>
       </p>
-      <p v-if="member.education">
-        <div>
-          <strong>Education</strong>
-        </div>
-        <div v-for="(record,index) in member.education" :key="index">
-          <div>{{ record }}</div>
-        </div>
-      </p>
-      <p v-if="member.researchInterest">
-        <div>
-          <strong>Research interests</strong>
-        </div>
-        <div>{{ member.researchInterest }}</div>
+      <p class="fs-5">
+        {{ member.position }}
       </p>
     </div>
   </div>
@@ -45,5 +34,6 @@ export default defineComponent({
 
 img {
   width: 100%;
+  max-width: 250px;
 }
 </style>

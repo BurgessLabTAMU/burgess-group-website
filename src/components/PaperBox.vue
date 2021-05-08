@@ -5,12 +5,17 @@
         <img :src="paper.graphical" />
       </div>
       <div class="col-md-7">
-        <div>
-          <a :href="paper.url" target="_blank" rel="noopener noreferrer">
+        <div class="fs-5 mb-3">
+          <a
+            :href="paper.url"
+            target="_blank"
+            rel="noopener noreferrer"
+            :class="paper.url.length > 0 ? '' : 'anchor-disabled'"
+          >
             {{ paper.title }}
           </a>
         </div>
-        <div>
+        <div class="mb-2">
           {{ paper.authors }}
         </div>
         <div>
@@ -40,7 +45,6 @@ export default defineComponent({
 .pub-box {
   border-style: solid;
   border-width: 1pt;
-  /* border-color: navy; */
   border-color: rgba(0, 0, 0, 0.15);
   width: 100%;
   padding: 5pt;
@@ -56,7 +60,10 @@ export default defineComponent({
   width: auto;
   margin-left: auto;
   margin-right: auto;
-  /* margin-top: 15px;
-  margin-bottom: 15px; */
+}
+
+.anchor-disabled {
+  pointer-events: none;
+  color: black;
 }
 </style>

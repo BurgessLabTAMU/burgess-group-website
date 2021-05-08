@@ -4,10 +4,16 @@
       <h1 class="mb-4">The Burgess Lab</h1>
       <h4 class="mb-5">Organic and Medicinal Chemistry</h4>
       <p>
-        <router-link to="/research" class="btn btn-lg btn-outline-light me-2">
+        <router-link
+          to="/rgroup/burgess/research"
+          class="btn btn-lg btn-outline-light me-2"
+        >
           Our research
         </router-link>
-        <router-link to="/contact" class="btn btn-lg btn-outline-light ms-2">
+        <router-link
+          to="/rgroup/burgess/contact"
+          class="btn btn-lg btn-outline-light ms-2"
+        >
           Get in touch
         </router-link>
       </p>

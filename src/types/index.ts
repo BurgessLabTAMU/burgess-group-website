@@ -1,8 +1,7 @@
 export interface Member {
   image: string;
   name: string;
-  education: null | string[];
-  researchInterest: null | string;
+  position: string;
 }
 
 export interface FormerMember {
@@ -17,5 +16,13 @@ export interface Paper {
   journal: string;
   year: number;
   details: string; // e.g. "submitted", "accepted", or "volume, pages"
+  graphical: string;
+}
+
+export interface Software {
+  title: string;
+  description: string;
+  github: string;
+  webapp: string;
   graphical: string;
 }

@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "url": "https://doi.org/10.1021/acs.molpharmaceut.9b00673",
+    "title": "TrkC-Targeted Kinase Inhibitors and PROTACs",
+    "authors": "B. Zhao and K. Burgess",
+    "journal": "Mol. Pharm.",
+    "year": 2019,
+    "details": "16, 4313-4318",
+    "graphical": "papers/Zhao-2019-1.png"
+  },
+  {
+    "url": "https://doi.org/10.1021/acs.jmedchem.9b01147",
+    "title": "Cyanine-Gemcitabine Conjugates as Target Theranostic Agents for Glioblastoma tumor Cells",
+    "authors": "Z. Jiang, K. Pflug, S. M. Usama, D. Kuai, X. Yan, R. Sitcheran, K. Burgess",
+    "journal": "J. Med. Chem.",
+    "year": 2019,
+    "details": "62, 9236-9245",
+    "graphical": "papers/Jiang-2019.png"
+  },
+  {
+    "url": "https://doi.org/10.1002/cmdc.201900356",
+    "title": "Conjugations of Dasatinib With MHI-148 Has a Significant Advantageous Effect in Viability Assays for Glioblastoma Cells",
+    "authors": "S. M. Usama, Z. Jiang, K. Pflug, R. Sitcheran, K. Burgess",
+    "journal": "ChemMedChem",
+    "year": 2019,
+    "details": "14, 1575-1579",
+    "graphical": "papers/Usama-2019-1.png"
+  },
+  {
+    "url": "https://doi.org/10.1039/C9OB01184F",
+    "title": "Protein labelling and albumin binding characteristics of the near-IR Cy7 fluorophore, QuatCy",
+    "authors": "S. Thavornpradit, S. M. Usama, C.-M. Lin, K. Burgess",
+    "journal": "Org. Biomol. Chem.",
+    "year": 2019,
+    "details": "17, 7150-7154",
+    "graphical": "papers/Thavornpradit-2019-1.png"
+  },
+  {
+    "url": "https://doi.org/10.1002/anie.201902956",
+    "title": "Productive Manipulation of Cyanine Dye &pi;-Networks",
+    "authors": "S. M. Usama, T. Thompson, K. Burgess",
+    "journal": "Angew. Chem. Int. Ed.",
+    "year": 2019,
+    "details": "28, 2-5",
+    "graphical": "papers/Usama-2019-2.png"
+  },
+  {
+    "url": "https://doi.org/10.1039/c9ob00204a",
+    "title": "Correlations between secondary structure- and protein–protein interface-mimicry: the interface mimicry hypothesis",
+    "authors": "J. Taechalertpaisarn, R.-L. Lyu, M. Arancillo, C.-M. Lin, L. Perez, T. Ioerger, K. Burgess",
+    "journal": "Org. Biomol. Chem.",
+    "year": 2019,
+    "details": "17, 3267-3274",
+    "graphical": "papers/Taechalertpaisarn-2019-1.png"
+  },
+  {
+    "url": "https://doi.org/10.1002/cplu.201800574",
+    "title": "A Near‐Infrared Fluorescence Chemosensor Based on Isothiocyanate‐Aza‐BODIPY for Cyanide Detection at the Parts per Billion Level: Applications in Buffer Media and Living Cell Imaging",
+    "authors": "P. Piyanuch, J. Sirirak, A. Kamkaew, O. Weeranantanapa, V. Promarak, K. Burgess, N. Wanichacheva",
+    "journal": "ChemPlusChem",
+    "year": 2019,
+    "details": "84, 252-259",
+    "graphical": "papers/Piyanuch-2019.png"
+  },
+  {
+    "url": "https://doi.org/10.1039/C8OB02901F",
+    "title": "Design criteria for minimalist mimics of protein–protein interface segments",
+    "authors": "J. Taechalertpaisarn, R.-L. Lyu, M. Arancillo, C.-M. Lin, Z. Jiang, L. Perez, T. Ioerger, K. Burgess",
+    "journal": "Org. Biomol. Chem.",
+    "year": 2019,
+    "details": "17, 908-915",
+    "graphical": "papers/Taechalertpaisarn-2019-2.png"
+  },
+  {
+    "url": "https://doi.org/10.1039/c9cc00163h",
+    "title": "PROTACs suppression of CDK4/6, crucial kinases for cell cycle regulation in cancer",
+    "authors": "B. Zhao, K. Burgess",
+    "journal": "Chem. Commun.",
+    "year": 2019,
+    "details": "55, 2704-2707",
+    "graphical": "papers/Zhao-2019-2.png"
+  },
+  {
+    "url": "https://doi.org/10.71501/thno.33595",
+    "title": "QuatCy: A Heptamethine Cyanine Modification With Improved Characteristics",
+    "authors": "S. Thavornpradit, S. M. Usama, J. P. Shrestha, G. K. Park, H. S. Choi, K. Burgess",
+    "journal": "Theranostics",
+    "year": 2019,
+    "details": "9, 2856-2867",
+    "graphical": "papers/Thavornpradit-2019-2.png"
+  },
+  {
+    "url": "https://doi.org/10.1021/acs.bioconjchem.9b00118",
+    "title": "A Near-IR Fluorescent Dasatinib Derivative That Localizes in Cancer Cells",
+    "authors": "S. M. Usama, B. Zhao, K. Burgess",
+    "journal": "Bioconjugate Chem",
+    "year": 2019,
+    "details": "30, 1175-1181",
+    "graphical": "papers/Usama-2019-3.png"
+  }
+]

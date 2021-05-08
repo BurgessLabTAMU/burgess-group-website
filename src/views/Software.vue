@@ -1,17 +1,20 @@
 <template>
   <div id="software" class="container">
     <PageTitle title="Software" />
-    <h1 class="mx-auto">This page is under construction!</h1>
+    <div v-for="(software, index) in $store.state.softwares" :key="index">
+      <SoftwareBox :software="software" />
+    </div>
   </div>
 </template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
 import PageTitle from "@/components/PageTitle.vue";
+import SoftwareBox from "@/components/SoftwareBox.vue";
 
 export default defineComponent({
   name: "Software",
-  components: { PageTitle }
+  components: { PageTitle, SoftwareBox }
 });
 </script>
 
