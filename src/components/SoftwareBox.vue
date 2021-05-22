@@ -4,27 +4,40 @@
       <div class="col-md-5">
         <img :src="software.graphical" />
       </div>
-      <div class="col-md-7 pt-2">
+      <div class="col-md-7">
         <div class="fs-3 mb-3">
           <b>{{ software.title }}</b>
         </div>
-        <div class="mb-5">
+        <div class="mb-4">
           {{ software.description }}
         </div>
         <div>
           <a
             v-if="software.github.length > 0"
             :href="software.github"
-            class="btn btn-outline-primary"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn btn-outline-primary me-2"
           >
-            GitHub
+            Code
           </a>
           <a
             v-if="software.webapp.length > 0"
             :href="software.webapp"
-            class="btn btn-outline-primary"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn btn-outline-primary me-2"
           >
             Webapp
+          </a>
+          <a
+            v-if="software.reference.length > 0"
+            :href="software.reference"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn btn-outline-primary me-2"
+          >
+            Reference
           </a>
         </div>
       </div>
@@ -51,6 +64,8 @@ export default defineComponent({
   border-color: rgba(0, 0, 0, 0.15);
   width: 100%;
   padding: 5pt;
+  padding-top: 10pt;
+  padding-bottom: 20pt;
   margin-top: 0px;
   margin-bottom: 8px;
 }

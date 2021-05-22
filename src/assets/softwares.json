@@ -1,30 +1,34 @@
 [
   {
     "title": "Schellman Database",
-    "description": "Descriptive text",
+    "description": "Tianxiong plese 1) write up a descriptive text, 2) provide a diagram, 3) put the code up on github",
     "github": "",
     "webapp": "",
-    "graphical": "https://via.placeholder.com/500x300.png?text=I+am+a+placeholder"
+    "graphical": "https://via.placeholder.com/500x300.png?text=I+am+a+placeholder",
+    "reference": ""
   },
   {
     "title": "Solvent Occlusion",
-    "description": "Detection of hot spot residues on protein-protein interfaces",
+    "description": "Python implementation of solvent occlusion, an algorithm to detect hot spot residues on protein-protein interfaces, as a computationally cheaper alternative to the alanine scan mutagenesis (AlaScan) method. Under the hood, solvent occlusion determines the likelihood of a residue being hot spot based on how deep the residue is buried inside the protein binding partner. Diagram on left shows the accurate detection of hot spots on a SARS-CoV-2•mAb interface (PDB ID 6W41) using solvent occlusion.",
     "github": "https://github.com/burgess-lab-tamu/solvent-occlusion",
     "webapp": "",
-    "graphical": "https://via.placeholder.com/500x300.png?text=I+am+a+placeholder"
+    "graphical": "softwares/solvent-occlusion.png",
+    "reference": ""
   },
   {
-    "title": "Exploring Key Orientations for Secondary Structures (EKOS)",
-    "description": "Descriptive text",
-    "github": "",
+    "title": "Exploring Key Orientations for Secondary Structures (EKOS)*",
+    "description": "A protocol assisting researchers in evaluating how well minimalist mimics resemble ideal secondary structures. The protocol involves the use quenched molecular dynamics (QMD) to generate emsembles of low energy conformers and quantitative measurement of how these conformers overlay on ideal secondary structures. EKOS has been applied in the development of α-helical mimics (see reference).",
+    "github": "https://github.com/burgess-lab-tamu/exploring-key-orientations",
     "webapp": "",
-    "graphical": "https://via.placeholder.com/500x300.png?text=I+am+a+placeholder"
+    "graphical": "softwares/ekos.png",
+    "reference": "https://pubs.rsc.org/en/content/articlelanding/2013/OB/c3ob41848k"
   },
   {
-    "title": "Exploring Key Orientations (EKO)",
-    "description": "Descriptive text",
-    "github": "",
+    "title": "Exploring Key Orientations (EKO)*",
+    "description": "A data mining algorithm to sample huge numbers of protein-protein interactions (PPIs) to find ones that match preferred conformers of a selected semirigid scaffold, providing guidance in designing small molecule probes that selectively perturb PPIs.",
+    "github": "https://github.com/burgess-lab-tamu/exploring-key-orientations",
     "webapp": "",
-    "graphical": "https://via.placeholder.com/500x300.png?text=I+am+a+placeholder"
+    "graphical": "softwares/eko.gif",
+    "reference": "https://pubs.acs.org/doi/10.1021/ja3067258"
   }
 ]

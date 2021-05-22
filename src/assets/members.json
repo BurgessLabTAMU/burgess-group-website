@@ -7,41 +7,46 @@
   {
     "image": "rgroup/burgess/members/larry.jpg",
     "name": "Rui-Liang Lyu",
-    "position": "Graduate Student"
+    "position": "PhD Student"
   },
   {
     "image": "rgroup/burgess/members/tye.jpg",
     "name": "Tye Thompson",
-    "position": "Graduate Student"
+    "position": "PhD Student"
   },
   {
     "image": "rgroup/burgess/members/jon.png",
     "name": "Jon Whisenant",
-    "position": "Graduate Student"
+    "position": "PhD Student"
   },
   {
     "image": "rgroup/burgess/members/tianxiong.jpg",
     "name": "Tianxiong Mi",
-    "position": "Graduate Student"
+    "position": "PhD Student (Tianxiong is the one on the right)"
   },
   {
     "image": "rgroup/burgess/members/conghe.jpg",
     "name": "Conghe Tian",
-    "position": "Graduate Student"
+    "position": "PhD Student"
   },
   {
-    "image": "rgroup/burgess/members/duyen.jpg",
-    "name": "Duyen Nguyen",
-    "position": "Undergraduate Student"
+    "image": "rgroup/burgess/members/shivangi.jpg",
+    "name": "Shivangi Sharma",
+    "position": "PhD Student"
   },
   {
     "image": "rgroup/burgess/members/daw.jpg",
     "name": "Thitima Pewklang",
-    "position": "Undergraduate Student"
+    "position": "Masters Student"
   },
   {
     "image": "rgroup/burgess/members/mable.jpg",
     "name": "Siriwalee Siriwibool",
+    "position": "Masters Student"
+  },
+  {
+    "image": "rgroup/burgess/members/duyen.jpg",
+    "name": "Duyen Nguyen",
     "position": "Undergraduate Student"
   },
   {

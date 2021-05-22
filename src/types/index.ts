@@ -25,4 +25,5 @@ export interface Software {
   github: string;
   webapp: string;
   graphical: string;
+  reference: string;
 }
