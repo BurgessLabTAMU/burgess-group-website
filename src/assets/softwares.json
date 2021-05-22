@@ -12,7 +12,7 @@
     "description": "Python implementation of solvent occlusion, an algorithm to detect hot spot residues on protein-protein interfaces, as a computationally cheaper alternative to the alanine scan mutagenesis (AlaScan) method. Under the hood, solvent occlusion determines the likelihood of a residue being hot spot based on how deep the residue is buried inside the protein binding partner. Diagram on left shows the accurate detection of hot spots on a SARS-CoV-2•mAb interface (PDB ID 6W41) using solvent occlusion.",
     "github": "https://github.com/burgess-lab-tamu/solvent-occlusion",
     "webapp": "",
-    "graphical": "softwares/solvent-occlusion.png",
+    "graphical": "rgroup/burgess/softwares/solvent-occlusion.png",
     "reference": ""
   },
   {
@@ -20,7 +20,7 @@
     "description": "A protocol assisting researchers in evaluating how well minimalist mimics resemble ideal secondary structures. The protocol involves the use quenched molecular dynamics (QMD) to generate emsembles of low energy conformers and quantitative measurement of how these conformers overlay on ideal secondary structures. EKOS has been applied in the development of α-helical mimics (see reference).",
     "github": "https://github.com/burgess-lab-tamu/exploring-key-orientations",
     "webapp": "",
-    "graphical": "softwares/ekos.png",
+    "graphical": "rgroup/burgess/softwares/ekos.png",
     "reference": "https://pubs.rsc.org/en/content/articlelanding/2013/OB/c3ob41848k"
   },
   {
@@ -28,7 +28,7 @@
     "description": "A data mining algorithm to sample huge numbers of protein-protein interactions (PPIs) to find ones that match preferred conformers of a selected semirigid scaffold, providing guidance in designing small molecule probes that selectively perturb PPIs.",
     "github": "https://github.com/burgess-lab-tamu/exploring-key-orientations",
     "webapp": "",
-    "graphical": "softwares/eko.gif",
+    "graphical": "rgroup/burgess/softwares/eko.gif",
     "reference": "https://pubs.acs.org/doi/10.1021/ja3067258"
   }
 ]
