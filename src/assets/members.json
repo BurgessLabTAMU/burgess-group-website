@@ -5,11 +5,6 @@
     "position": "Postdoc"
   },
   {
-    "image": "rgroup/burgess/members/larry.jpg",
-    "name": "Rui-Liang Lyu",
-    "position": "PhD Student"
-  },
-  {
     "image": "rgroup/burgess/members/tye.jpg",
     "name": "Tye Thompson",
     "position": "PhD Student"
@@ -47,11 +42,6 @@
   {
     "image": "rgroup/burgess/members/duyen.jpg",
     "name": "Duyen Nguyen",
-    "position": "Undergraduate Student"
-  },
-  {
-    "image": "rgroup/burgess/members/jake.jpg",
-    "name": "Jake Shepherd",
     "position": "Undergraduate Student"
   }
 ]

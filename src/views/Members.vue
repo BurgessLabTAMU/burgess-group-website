@@ -25,7 +25,7 @@ import MemberInfo from "@/components/MemberInfo.vue";
 
 export default defineComponent({
   name: "Members",
-  components: { PageTitle, MemberInfo }
+  components: { PageTitle, MemberInfo },
 });
 </script>
 

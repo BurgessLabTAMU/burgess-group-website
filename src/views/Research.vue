@@ -3,6 +3,12 @@
     <PageTitle title="Research" />
     <h3>Why do people join The Burgess Group?</h3>
     <p>
+      <img
+        src="rgroup/burgess/reasons-students-join-this-group.png"
+        style="max-width: 100%;"
+      />
+    </p>
+    <p>
       The Burgess Group is for PhD students and postdocs who are interested in applying
       organic techniques to problems in biomedicinal chemistry involving small molecules
       that interact with cell surface receptors to impact disease states. We are
